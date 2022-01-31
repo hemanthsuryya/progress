@@ -2,7 +2,7 @@
 | SI No	| Topics |	Sub Topics  |	Status  |	Remarks |
 | :---: | :----: | :---------:  | :----:  | :-----: |
 |1	|HTML|	HTML Basic Elements, HTML5, page responsiveness, HTML Forms and Media HTML5 New Elements | Completed | Website with HTML5 features is created|
-|2	|CSS|	 CSS Basics, Responsive design and LESS preprocessor | In Progress | CSS3 is used for styling above mentioned website |
+|2	|CSS|	 CSS Basics, Responsive design and LESS preprocessor | Completed | Same styling is updated with LESS |
 |3	|JavaScript| Basic JavaScript, Data types, Arrow functions, Array, Strings, Closures, Callback, async-await, ES6 new features, prototypical inheritance, DOM manipulation, Objects, Understanding the Scoping, Inbuilt functions like map, reduce, filter, objects, currying, Events, Spread & REST operator |
 |4 |Advanced JavaScript |Promises, Error handling, generator functions, JSON Objects, Function binding, class, Event propagations, inheritance|
 |5 |Object based JavaScript |THIS method, new operator, constructor |
